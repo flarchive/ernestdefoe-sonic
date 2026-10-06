@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ernestdefoe/sonic.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/sonic) or the [upstream repository](https://github.com/ernestdefoe/sonic).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/ernestdefoe-sonic/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/ernestdefoe-sonic/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-10-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-sonic/tree/archive/v0.1.0) |
+| `0.1.1` | 2026-10-06 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-sonic/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/ernestdefoe-sonic.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-sonic.json)
 
